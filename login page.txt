@@ -1,2 +1,4 @@
-name=sairintri
-password=12345
+first name = Sejal
+last name = sahu
+password = 1234567890
+age = 26
