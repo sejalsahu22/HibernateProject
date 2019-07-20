@@ -1,3 +1,4 @@
-name=sairintri
+firstname=sairintri
+lastname=pal
 password=12345
 age=23
