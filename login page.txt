@@ -1,3 +1,4 @@
+
 first name = Sejal
 last name = Sahu
 password = 1234567890123
@@ -8,3 +9,27 @@ age = 25
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 739351dcc4cce5aa8da4020b9bd1fcabf59e775d
