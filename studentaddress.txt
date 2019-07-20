@@ -1,0 +1,4 @@
+name=sairintri
+age=23
+branch=IT
+place=west bengal
