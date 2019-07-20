@@ -1,4 +1,12 @@
 name sejal 
 stream cse
+<<<<<<< HEAD
 mob no=12346578
 place=bangalore
+=======
+<<<<<<< HEAD
+email sejalsahu4@gmail.com
+=======
+mob no=12346578
+>>>>>>> 816bde7bbcc4b8e56d0d0d69f16be4d24cc2bed0
+>>>>>>> 414a3824cdbf09611163ccc3a52ac194111937dd
