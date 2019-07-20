@@ -1,4 +1,22 @@
-firstname=sairintri
+
+stname=sasrintri
 lastname=pal
-password=12345
-age=23
+
+
+
+
+
+
+
+
+
+password = 1234567890
+age = 26
+
+
+
+
+
+
+
+>>>>>>> 739351dcc4cce5aa8da4020b9bd1fcabf59e775d
