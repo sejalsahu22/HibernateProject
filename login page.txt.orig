@@ -1,13 +1,35 @@
 <<<<<<< HEAD
 first name = Sejal
+last name = Sahu
+password = 1234567890123
+age = 25
+||||||| merged common ancestors
+first name = Sejal
 last name = sahu
 password = 1234567890
 age = 26
-||||||| merged common ancestors
-name=sairintri
-password=12345
+
 =======
-name=sairintri
-password=12345
-age=23
->>>>>>> e1c9897510e782348db4b4949a27683060f69307
+
+stname=sasrintri
+lastname=pal
+
+
+
+
+
+
+
+
+
+password = 1234567890
+age = 26
+
+>>>>>>> e347f8c0412281504f6ab1eaa0b5e836e3187573
+
+
+
+
+
+
+>>>>>>> 739351dcc4cce5aa8da4020b9bd1fcabf59e775d
